@@ -1,5 +1,5 @@
-use std::io;
 use std::collections::HashMap;
+use std::io;
 
 fn main() {
     println!("Todo CLI");
